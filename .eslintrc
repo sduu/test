@@ -1,5 +1,6 @@
 {
-  "extends": ["eslint:recommended", "airbnb", "prettier", "plugin:prettier/recommended"],
+  "extends": ["react-app", "react-app/jest", "naver"],
+  // "extends": ["eslint:recommended", "airbnb", "prettier", "plugin:prettier/recommended"],
   "env": {
     "browser": true
   },
