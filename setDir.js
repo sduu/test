@@ -7,6 +7,7 @@ const arrDirectory = [
   'src/components/ui/Button',
   'src/components/Splash',
   'src/components/Header',
+  'src/components/Footer',
   'src/pages/loginPage/Start',
   'src/pages/loginPage/Login',
   'src/pages/loginPage/Join',
